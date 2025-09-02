@@ -1,0 +1,1889 @@
+
+--- Avvio Sessione ---
+
+--- Avvio Sessione ---
+
+--- Avvio Sessione ---
+
+--- Avvio Sessione ---
+
+--- Avvio Sessione ---
+
+--- Avvio Sessione ---
+Eseguo: C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/ST-LINK_CLI.exe -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STM32 ST-LINK CLI v3.6.0.0
+STM32 ST-LINK Command Line Interface
+
+[-BoardName=ST-LINK]: Unknown command!Use -? for help.
+
+[-Port=USB]: Unknown command!Use -? for help.
+
+[-ProgMode=SWIM]: Unknown command!Use -? for help.
+
+[-Device=STM8S003K3]: Unknown command!Use -? for help.
+
+[-verbose]: Unknown command!Use -? for help.
+
+[-no_progOption]: Unknown command!Use -? for help.
+
+[-no_loop]: Unknown command!Use -? for help.
+
+[-verif]: Unknown command!Use -? for help.
+
+[-FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19]: Unknown command!Use -? for help.
+
+[-FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex]: Unknown command!Use -? for help.
+
+[-FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex]: Unknown command!Use -? for help.
+
+
+Errore di programmazione (codice 1).
+Eseguo: C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/ST-LINK_CLI.exe -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STM32 ST-LINK CLI v3.6.0.0
+STM32 ST-LINK Command Line Interface
+
+[-BoardName=ST-LINK]: Unknown command!Use -? for help.
+
+[-Port=USB]: Unknown command!Use -? for help.
+
+[-ProgMode=SWIM]: Unknown command!Use -? for help.
+
+[-Device=STM8S003K3]: Unknown command!Use -? for help.
+
+[-verbose]: Unknown command!Use -? for help.
+
+[-no_progOption]: Unknown command!Use -? for help.
+
+[-no_loop]: Unknown command!Use -? for help.
+
+[-verif]: Unknown command!Use -? for help.
+
+[-FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19]: Unknown command!Use -? for help.
+
+[-FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex]: Unknown command!Use -? for help.
+
+[-FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex]: Unknown command!Use -? for help.
+
+
+Errore di programmazione (codice 1).
+Eseguo: C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/ST-LINK_CLI.exe -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STM32 ST-LINK CLI v3.6.0.0
+STM32 ST-LINK Command Line Interface
+
+[-BoardName=ST-LINK]: Unknown command!Use -? for help.
+
+[-Port=USB]: Unknown command!Use -? for help.
+
+[-ProgMode=SWIM]: Unknown command!Use -? for help.
+
+[-Device=STM8S003K3]: Unknown command!Use -? for help.
+
+[-verbose]: Unknown command!Use -? for help.
+
+[-no_progOption]: Unknown command!Use -? for help.
+
+[-no_loop]: Unknown command!Use -? for help.
+
+[-verif]: Unknown command!Use -? for help.
+
+[-FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19]: Unknown command!Use -? for help.
+
+[-FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex]: Unknown command!Use -? for help.
+
+[-FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex]: Unknown command!Use -? for help.
+
+
+Errore di programmazione (codice 1).
+Eseguo: C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/ST-LINK_CLI.exe -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STM32 ST-LINK CLI v3.6.0.0
+STM32 ST-LINK Command Line Interface
+
+[-BoardName=ST-LINK]: Unknown command!Use -? for help.
+
+[-Port=USB]: Unknown command!Use -? for help.
+
+[-ProgMode=SWIM]: Unknown command!Use -? for help.
+
+[-Device=STM8S003K3]: Unknown command!Use -? for help.
+
+[-verbose]: Unknown command!Use -? for help.
+
+[-no_progOption]: Unknown command!Use -? for help.
+
+[-no_loop]: Unknown command!Use -? for help.
+
+[-verif]: Unknown command!Use -? for help.
+
+[-FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19]: Unknown command!Use -? for help.
+
+[-FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex]: Unknown command!Use -? for help.
+
+[-FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex]: Unknown command!Use -? for help.
+
+
+Errore di programmazione (codice 1).
+Eseguo: C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/ST-LINK_CLI.exe -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STM32 ST-LINK CLI v3.6.0.0
+STM32 ST-LINK Command Line Interface
+
+[-BoardName=ST-LINK]: Unknown command!Use -? for help.
+
+[-Port=USB]: Unknown command!Use -? for help.
+
+[-ProgMode=SWIM]: Unknown command!Use -? for help.
+
+[-Device=STM8S003K3]: Unknown command!Use -? for help.
+
+[-verbose]: Unknown command!Use -? for help.
+
+[-no_progOption]: Unknown command!Use -? for help.
+
+[-no_loop]: Unknown command!Use -? for help.
+
+[-verif]: Unknown command!Use -? for help.
+
+[-FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19]: Unknown command!Use -? for help.
+
+[-FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex]: Unknown command!Use -? for help.
+
+[-FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex]: Unknown command!Use -? for help.
+
+
+Errore di programmazione (codice 1).
+Eseguo: C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/ST-LINK_CLI.exe -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STM32 ST-LINK CLI v3.6.0.0
+STM32 ST-LINK Command Line Interface
+
+[-BoardName=ST-LINK]: Unknown command!Use -? for help.
+
+[-Port=USB]: Unknown command!Use -? for help.
+
+[-ProgMode=SWIM]: Unknown command!Use -? for help.
+
+[-Device=STM8S003K3]: Unknown command!Use -? for help.
+
+[-verbose]: Unknown command!Use -? for help.
+
+[-no_progOption]: Unknown command!Use -? for help.
+
+[-no_loop]: Unknown command!Use -? for help.
+
+[-verif]: Unknown command!Use -? for help.
+
+[-FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19]: Unknown command!Use -? for help.
+
+[-FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex]: Unknown command!Use -? for help.
+
+[-FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex]: Unknown command!Use -? for help.
+
+
+Errore di programmazione (codice 1).
+Eseguo: C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/ST-LINK_CLI.exe -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STM32 ST-LINK CLI v3.6.0.0
+STM32 ST-LINK Command Line Interface
+
+[-BoardName=ST-LINK]: Unknown command!Use -? for help.
+
+[-Port=USB]: Unknown command!Use -? for help.
+
+[-ProgMode=SWIM]: Unknown command!Use -? for help.
+
+[-Device=STM8S003K3]: Unknown command!Use -? for help.
+
+[-verbose]: Unknown command!Use -? for help.
+
+[-no_progOption]: Unknown command!Use -? for help.
+
+[-no_loop]: Unknown command!Use -? for help.
+
+[-verif]: Unknown command!Use -? for help.
+
+[-FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19]: Unknown command!Use -? for help.
+
+[-FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex]: Unknown command!Use -? for help.
+
+[-FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex]: Unknown command!Use -? for help.
+
+
+Errore di programmazione (codice 1).
+
+--- Avvio Sessione ---
+Eseguo: C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/ST-LINK_CLI.exe -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STM32 ST-LINK CLI v3.6.0.0
+STM32 ST-LINK Command Line Interface
+
+[-BoardName=ST-LINK]: Unknown command!Use -? for help.
+
+[-Port=USB]: Unknown command!Use -? for help.
+
+[-ProgMode=SWIM]: Unknown command!Use -? for help.
+
+[-Device=STM8S003K3]: Unknown command!Use -? for help.
+
+[-verbose]: Unknown command!Use -? for help.
+
+[-no_progOption]: Unknown command!Use -? for help.
+
+[-no_loop]: Unknown command!Use -? for help.
+
+[-verif]: Unknown command!Use -? for help.
+
+[-FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19]: Unknown command!Use -? for help.
+
+[-FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex]: Unknown command!Use -? for help.
+
+[-FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex]: Unknown command!Use -? for help.
+
+
+Errore di programmazione (codice 1).
+Eseguo: C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/ST-LINK_CLI.exe -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STM32 ST-LINK CLI v3.6.0.0
+STM32 ST-LINK Command Line Interface
+
+[-BoardName=ST-LINK]: Unknown command!Use -? for help.
+
+[-Port=USB]: Unknown command!Use -? for help.
+
+[-ProgMode=SWIM]: Unknown command!Use -? for help.
+
+[-Device=STM8S003K3]: Unknown command!Use -? for help.
+
+[-verbose]: Unknown command!Use -? for help.
+
+[-no_progOption]: Unknown command!Use -? for help.
+
+[-no_loop]: Unknown command!Use -? for help.
+
+[-verif]: Unknown command!Use -? for help.
+
+[-FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19]: Unknown command!Use -? for help.
+
+[-FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex]: Unknown command!Use -? for help.
+
+[-FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex]: Unknown command!Use -? for help.
+
+
+Errore di programmazione (codice 1).
+Eseguo: C:/Program Files (x86)/STMicroelectronics/STM32 ST-LINK Utility/ST-LINK Utility/ST-LINK_CLI.exe -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STM32 ST-LINK CLI v3.6.0.0
+STM32 ST-LINK Command Line Interface
+
+[-BoardName=ST-LINK]: Unknown command!Use -? for help.
+
+[-Port=USB]: Unknown command!Use -? for help.
+
+[-ProgMode=SWIM]: Unknown command!Use -? for help.
+
+[-Device=STM8S003K3]: Unknown command!Use -? for help.
+
+[-verbose]: Unknown command!Use -? for help.
+
+[-no_progOption]: Unknown command!Use -? for help.
+
+[-no_loop]: Unknown command!Use -? for help.
+
+[-verif]: Unknown command!Use -? for help.
+
+[-FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19]: Unknown command!Use -? for help.
+
+[-FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex]: Unknown command!Use -? for help.
+
+[-FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex]: Unknown command!Use -? for help.
+
+
+Errore di programmazione (codice 1).
+
+--- Avvio Sessione ---
+
+--- Avvio Sessione ---
+
+--- Avvio Sessione STM8 ---
+Eseguo: C:/Program Files (x86)/STMicroelectronics/st_toolset/stvp/STVP_CmdLine.exe -Tool_ID=0 -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S003K3 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Filling DATA MEMORY image in computer with Blank Value
+<<< Filling DATA MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex in DATA MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex in OPTION BYTE image in computer
+<<< Loading file succeeds
+
+Hit 'Esc' key to abort during communication.
+
+>>> Programming PROGRAM MEMORY
+(API) ERROR : Cannot communicate with the device !
+Check the SWIM cable connection and check all the needed pin connections on the SWIM connector.
+
+If the application code uses Swim Disable and Reset pin as Output or has disabled SWIM Clock Divider:
+Try Now to SWITCH OFF and ON the application Power Supply while NRST Reset pin is forced low.
+
+<<< Programming PROGRAM MEMORY fails
+
+Errore di programmazione (codice 1).
+Eseguo: C:/Program Files (x86)/STMicroelectronics/st_toolset/stvp/STVP_CmdLine.exe -Tool_ID=0 -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S003K3 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Filling DATA MEMORY image in computer with Blank Value
+<<< Filling DATA MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex in DATA MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex in OPTION BYTE image in computer
+<<< Loading file succeeds
+
+Hit 'Esc' key to abort during communication.
+
+>>> Programming PROGRAM MEMORY
+(API) ERROR : Cannot communicate with the device !
+Check the SWIM cable connection and check all the needed pin connections on the SWIM connector.
+
+If the application code uses Swim Disable and Reset pin as Output or has disabled SWIM Clock Divider:
+Try Now to SWITCH OFF and ON the application Power Supply while NRST Reset pin is forced low.
+
+<<< Programming PROGRAM MEMORY fails
+
+Errore di programmazione (codice 1).
+Eseguo: C:/Program Files (x86)/STMicroelectronics/st_toolset/stvp/STVP_CmdLine.exe -Tool_ID=0 -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S003K3 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Filling DATA MEMORY image in computer with Blank Value
+<<< Filling DATA MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex in DATA MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex in OPTION BYTE image in computer
+<<< Loading file succeeds
+
+Hit 'Esc' key to abort during communication.
+
+>>> Programming PROGRAM MEMORY
+(API) ERROR : Cannot communicate with the device !
+Check the SWIM cable connection and check all the needed pin connections on the SWIM connector.
+
+If the application code uses Swim Disable and Reset pin as Output or has disabled SWIM Clock Divider:
+Try Now to SWITCH OFF and ON the application Power Supply while NRST Reset pin is forced low.
+
+<<< Programming PROGRAM MEMORY fails
+
+Errore di programmazione (codice 1).
+Eseguo: C:/Program Files (x86)/STMicroelectronics/st_toolset/stvp/STVP_CmdLine.exe -Tool_ID=1 -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=1 Device=STM8S003K3 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Filling DATA MEMORY image in computer with Blank Value
+<<< Filling DATA MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex in DATA MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex in OPTION BYTE image in computer
+<<< Loading file succeeds
+
+Hit 'Esc' key to abort during communication.
+
+>>> Programming PROGRAM MEMORY
+(API) ERROR : Cannot communicate with the tool.
+Wrong tool selection or check tool power supply or check that a previous session is closed.
+<<< Programming PROGRAM MEMORY fails
+
+Errore di programmazione (codice 1).
+
+--- Avvio Sessione STM8 ---
+Eseguo: C:/Program Files (x86)/STMicroelectronics/st_toolset/stvp/STVP_CmdLine.exe -SN=55FF67066685485537241767 -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+
+STVP_CmdLine version 1.6
+Argument ERROR or unknown argument: -SN=55FF67066685485537241767
+
+Usage:STVP_CmdLine [-BoardName=STxxx] [-Port=xxx] [-ProgMode=xxx] [-Device=STxxx]
+[-Tool_ID=x]|[-NbTools=x] [-version] [-verbose]|[-no_verbose] [-log]|[-no_log] [-loop]|[-no_loop]
+[-help] [-no_progProg] [-no_progData] [-no_progOption] [-progress]|[-no_progress]
+[-warn_protect]|[-no_warn_protect] [-readProg] [-readData] [-readOption]
+[-erase]|[-no_erase] [-blank]|[-no_blank] [-verif]|[-no_verif]
+[-FileProg=fname.hex/s19] [-FileData=fname.hex/s19] [-FileOption=fname.hex/s19]
+With:
+[-BoardName=STxxx] ==========> Programming Tool name (ST-LINK, RLINK, STICE, ...)
+[-Tool_ID=x] ================> ST-LINK Programming Tool ID (0, 1, 2...)
+[-NbTools=x] ================> Number of ST-LINK Tools with same device connected (Tool_ID is automatically incremented)
+[-Port=xxx] =================> Communication Port (USB, LPT1)
+[-ProgMode=xxx] =============> Programming mode or protocol (SWIM, JTAG, SWD)
+[-Device=STxxx] =============> Device name (exact same name as in STVP)
+[-version] ==================> Display version of this application
+[-verbose] ==================> Display messages, warnings, errors
+[-log] ======================> Generate or append Result.log log file
+[-loop] =====================> Loop on actions until 'Space' key hit
+[-progress] =================> Display progress of each action
+[-warn_protect] =============> Message Box if programming Option Byte protection
+[-no_progProg] ==============> Do not program PROGRAM MEMORY (used to verify device from a file)
+[-no_progData] ==============> Do not program DATA MEMORY (used to verify device from a file)
+[-no_progOption] ============> Do not program OPTION BYTE (used to verify device from a file)
+[-readProg] =================> Read PROGRAM MEMORY
+[-readData] =================> Read DATA MEMORY
+[-readOption] ===============> Read OPTION BYTE
+[-erase] ====================> Erase the device (before programming)
+[-blank] ====================> Blank Check the device (before programming)
+[-verif] ====================> Verify the device after programming
+[-FileProg=fname.hex/s19] ===> File name to program PROGRAM MEMORY area (hex or s19)
+[-FileData=fname.hex/s19] ===> File name to program DATA MEMORY area (hex or s19)
+[-FileOption=fname.hex/s19] => File name to program OPTION BYTE area (hex or s19)
+
+Errore di programmazione (codice 1).
+Eseguo: C:/Program Files (x86)/STMicroelectronics/st_toolset/stvp/STVP_CmdLine.exe -SN=55FF67066685485537241767 -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+
+STVP_CmdLine version 1.6
+Argument ERROR or unknown argument: -SN=55FF67066685485537241767
+
+Usage:STVP_CmdLine [-BoardName=STxxx] [-Port=xxx] [-ProgMode=xxx] [-Device=STxxx]
+[-Tool_ID=x]|[-NbTools=x] [-version] [-verbose]|[-no_verbose] [-log]|[-no_log] [-loop]|[-no_loop]
+[-help] [-no_progProg] [-no_progData] [-no_progOption] [-progress]|[-no_progress]
+[-warn_protect]|[-no_warn_protect] [-readProg] [-readData] [-readOption]
+[-erase]|[-no_erase] [-blank]|[-no_blank] [-verif]|[-no_verif]
+[-FileProg=fname.hex/s19] [-FileData=fname.hex/s19] [-FileOption=fname.hex/s19]
+With:
+[-BoardName=STxxx] ==========> Programming Tool name (ST-LINK, RLINK, STICE, ...)
+[-Tool_ID=x] ================> ST-LINK Programming Tool ID (0, 1, 2...)
+[-NbTools=x] ================> Number of ST-LINK Tools with same device connected (Tool_ID is automatically incremented)
+[-Port=xxx] =================> Communication Port (USB, LPT1)
+[-ProgMode=xxx] =============> Programming mode or protocol (SWIM, JTAG, SWD)
+[-Device=STxxx] =============> Device name (exact same name as in STVP)
+[-version] ==================> Display version of this application
+[-verbose] ==================> Display messages, warnings, errors
+[-log] ======================> Generate or append Result.log log file
+[-loop] =====================> Loop on actions until 'Space' key hit
+[-progress] =================> Display progress of each action
+[-warn_protect] =============> Message Box if programming Option Byte protection
+[-no_progProg] ==============> Do not program PROGRAM MEMORY (used to verify device from a file)
+[-no_progData] ==============> Do not program DATA MEMORY (used to verify device from a file)
+[-no_progOption] ============> Do not program OPTION BYTE (used to verify device from a file)
+[-readProg] =================> Read PROGRAM MEMORY
+[-readData] =================> Read DATA MEMORY
+[-readOption] ===============> Read OPTION BYTE
+[-erase] ====================> Erase the device (before programming)
+[-blank] ====================> Blank Check the device (before programming)
+[-verif] ====================> Verify the device after programming
+[-FileProg=fname.hex/s19] ===> File name to program PROGRAM MEMORY area (hex or s19)
+[-FileData=fname.hex/s19] ===> File name to program DATA MEMORY area (hex or s19)
+[-FileOption=fname.hex/s19] => File name to program OPTION BYTE area (hex or s19)
+
+Errore di programmazione (codice 1).
+
+--- Avvio Sessione STM8 ---
+Eseguo: C:/Program Files (x86)/STMicroelectronics/st_toolset/stvp/STVP_CmdLine.exe -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S003K3 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Filling DATA MEMORY image in computer with Blank Value
+<<< Filling DATA MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex in DATA MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex in OPTION BYTE image in computer
+<<< Loading file succeeds
+
+Hit 'Esc' key to abort during communication.
+
+>>> Programming PROGRAM MEMORY
+(API) ERROR : Cannot communicate with the device !
+Check the SWIM cable connection and check all the needed pin connections on the SWIM connector.
+
+If the application code uses Swim Disable and Reset pin as Output or has disabled SWIM Clock Divider:
+Try Now to SWITCH OFF and ON the application Power Supply while NRST Reset pin is forced low.
+
+<<< Programming PROGRAM MEMORY fails
+
+Errore di programmazione (codice 1).
+Eseguo: C:/Program Files (x86)/STMicroelectronics/st_toolset/stvp/STVP_CmdLine.exe -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S003K3 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Filling DATA MEMORY image in computer with Blank Value
+<<< Filling DATA MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex in DATA MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex in OPTION BYTE image in computer
+<<< Loading file succeeds
+
+Hit 'Esc' key to abort during communication.
+
+>>> Programming PROGRAM MEMORY
+(API) ERROR : Cannot communicate with the device !
+Check the SWIM cable connection and check all the needed pin connections on the SWIM connector.
+
+If the application code uses Swim Disable and Reset pin as Output or has disabled SWIM Clock Divider:
+Try Now to SWITCH OFF and ON the application Power Supply while NRST Reset pin is forced low.
+
+<<< Programming PROGRAM MEMORY fails
+
+Errore di programmazione (codice 1).
+Eseguo: C:/Program Files (x86)/STMicroelectronics/st_toolset/stvp/STVP_CmdLine.exe -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S003K3 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Filling DATA MEMORY image in computer with Blank Value
+<<< Filling DATA MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex in DATA MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex in OPTION BYTE image in computer
+<<< Loading file succeeds
+
+Hit 'Esc' key to abort during communication.
+
+>>> Programming PROGRAM MEMORY
+(API) ERROR : Cannot communicate with the device !
+Check the SWIM cable connection and check all the needed pin connections on the SWIM connector.
+
+If the application code uses Swim Disable and Reset pin as Output or has disabled SWIM Clock Divider:
+Try Now to SWITCH OFF and ON the application Power Supply while NRST Reset pin is forced low.
+
+<<< Programming PROGRAM MEMORY fails
+
+Errore di programmazione (codice 1).
+Eseguo: C:/Program Files (x86)/STMicroelectronics/st_toolset/stvp/STVP_CmdLine.exe -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S003K3 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Filling DATA MEMORY image in computer with Blank Value
+<<< Filling DATA MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex in DATA MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex in OPTION BYTE image in computer
+<<< Loading file succeeds
+
+Hit 'Esc' key to abort during communication.
+
+>>> Programming PROGRAM MEMORY
+Cut Version and Revision of device: 1.2
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+Cut Version and Revision of device: 1.2
+<<< Verifying PROGRAM MEMORY succeeds
+
+>>> Programming DATA MEMORY
+Cut Version and Revision of device: 1.2
+<<< Programming DATA MEMORY succeeds
+
+>>> Verifying DATA MEMORY
+Cut Version and Revision of device: 1.2
+<<< Verifying DATA MEMORY succeeds
+
+>>> Verifying OPTION BYTE
+Cut Version and Revision of device: 1.2
+<<< Verify OPTION BYTE succeeds
+
+Programmazione completata con successo.
+Eseguo: C:/Program Files (x86)/STMicroelectronics/st_toolset/stvp/STVP_CmdLine.exe -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S003K3 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Filling DATA MEMORY image in computer with Blank Value
+<<< Filling DATA MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex in DATA MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex in OPTION BYTE image in computer
+<<< Loading file succeeds
+
+Hit 'Esc' key to abort during communication.
+
+>>> Programming PROGRAM MEMORY
+Cut Version and Revision of device: 1.2
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+Cut Version and Revision of device: 1.2
+<<< Verifying PROGRAM MEMORY succeeds
+
+>>> Programming DATA MEMORY
+Cut Version and Revision of device: 1.2
+<<< Programming DATA MEMORY succeeds
+
+>>> Verifying DATA MEMORY
+Cut Version and Revision of device: 1.2
+<<< Verifying DATA MEMORY succeeds
+
+>>> Verifying OPTION BYTE
+Cut Version and Revision of device: 1.2
+<<< Verify OPTION BYTE succeeds
+
+Programmazione completata con successo.
+Eseguo: C:/Program Files (x86)/STMicroelectronics/st_toolset/stvp/STVP_CmdLine.exe -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S003K3 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Filling DATA MEMORY image in computer with Blank Value
+<<< Filling DATA MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex in DATA MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex in OPTION BYTE image in computer
+<<< Loading file succeeds
+
+Hit 'Esc' key to abort during communication.
+
+>>> Programming PROGRAM MEMORY
+(API) ERROR : Cannot communicate with the device !
+Check the SWIM cable connection and check all the needed pin connections on the SWIM connector.
+
+If the application code uses Swim Disable and Reset pin as Output or has disabled SWIM Clock Divider:
+Try Now to SWITCH OFF and ON the application Power Supply while NRST Reset pin is forced low.
+
+<<< Programming PROGRAM MEMORY fails
+
+Errore di programmazione (codice 1).
+Eseguo: C:/Program Files (x86)/STMicroelectronics/st_toolset/stvp/STVP_CmdLine.exe -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S003K3 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Filling DATA MEMORY image in computer with Blank Value
+<<< Filling DATA MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex in DATA MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex in OPTION BYTE image in computer
+<<< Loading file succeeds
+
+Hit 'Esc' key to abort during communication.
+
+>>> Programming PROGRAM MEMORY
+Cut Version and Revision of device: 1.2
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+Cut Version and Revision of device: 1.2
+<<< Verifying PROGRAM MEMORY succeeds
+
+>>> Programming DATA MEMORY
+Cut Version and Revision of device: 1.2
+<<< Programming DATA MEMORY succeeds
+
+>>> Verifying DATA MEMORY
+Cut Version and Revision of device: 1.2
+<<< Verifying DATA MEMORY succeeds
+
+>>> Verifying OPTION BYTE
+Cut Version and Revision of device: 1.2
+<<< Verify OPTION BYTE succeeds
+
+Programmazione completata con successo.
+
+--- Avvio Sessione STM8 ---
+
+--- Avvio Sessione STM8 ---
+
+--- Avvio Sessione STM8 ---
+Eseguo: C:/Program Files (x86)/STMicroelectronics/st_toolset/stvp/STVP_CmdLine.exe -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S003K3 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Filling DATA MEMORY image in computer with Blank Value
+<<< Filling DATA MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex in DATA MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex in OPTION BYTE image in computer
+<<< Loading file succeeds
+
+Hit 'Esc' key to abort during communication.
+
+>>> Programming PROGRAM MEMORY
+Cut Version and Revision of device: 1.2
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+Cut Version and Revision of device: 1.2
+<<< Verifying PROGRAM MEMORY succeeds
+
+>>> Programming DATA MEMORY
+Cut Version and Revision of device: 1.2
+<<< Programming DATA MEMORY succeeds
+
+>>> Verifying DATA MEMORY
+Cut Version and Revision of device: 1.2
+<<< Verifying DATA MEMORY succeeds
+
+>>> Verifying OPTION BYTE
+Cut Version and Revision of device: 1.2
+<<< Verify OPTION BYTE succeeds
+
+✅ Programmazione completata con successo.
+
+Eseguo: C:/Program Files (x86)/STMicroelectronics/st_toolset/stvp/STVP_CmdLine.exe -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S003K3 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Filling DATA MEMORY image in computer with Blank Value
+<<< Filling DATA MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex in DATA MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex in OPTION BYTE image in computer
+<<< Loading file succeeds
+
+Hit 'Esc' key to abort during communication.
+
+>>> Programming PROGRAM MEMORY
+Cut Version and Revision of device: 1.2
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+Cut Version and Revision of device: 1.2
+<<< Verifying PROGRAM MEMORY succeeds
+
+>>> Programming DATA MEMORY
+Cut Version and Revision of device: 1.2
+<<< Programming DATA MEMORY succeeds
+
+>>> Verifying DATA MEMORY
+Cut Version and Revision of device: 1.2
+<<< Verifying DATA MEMORY succeeds
+
+>>> Verifying OPTION BYTE
+Cut Version and Revision of device: 1.2
+<<< Verify OPTION BYTE succeeds
+
+✅ Programmazione completata con successo.
+
+Eseguo: C:/Program Files (x86)/STMicroelectronics/st_toolset/stvp/STVP_CmdLine.exe -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S003K3 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Filling DATA MEMORY image in computer with Blank Value
+<<< Filling DATA MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex in DATA MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex in OPTION BYTE image in computer
+<<< Loading file succeeds
+
+Hit 'Esc' key to abort during communication.
+
+>>> Programming PROGRAM MEMORY
+Cut Version and Revision of device: 1.2
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+Cut Version and Revision of device: 1.2
+<<< Verifying PROGRAM MEMORY succeeds
+
+>>> Programming DATA MEMORY
+Cut Version and Revision of device: 1.2
+<<< Programming DATA MEMORY succeeds
+
+>>> Verifying DATA MEMORY
+Cut Version and Revision of device: 1.2
+<<< Verifying DATA MEMORY succeeds
+
+>>> Verifying OPTION BYTE
+Cut Version and Revision of device: 1.2
+<<< Verify OPTION BYTE succeeds
+
+✅ Programmazione completata con successo.
+
+Eseguo: C:/Program Files (x86)/STMicroelectronics/st_toolset/stvp/STVP_CmdLine.exe -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S003K3 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Filling DATA MEMORY image in computer with Blank Value
+<<< Filling DATA MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex in DATA MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex in OPTION BYTE image in computer
+<<< Loading file succeeds
+
+Hit 'Esc' key to abort during communication.
+
+>>> Programming PROGRAM MEMORY
+(API) ERROR : Cannot communicate with the device !
+Check the SWIM cable connection and check all the needed pin connections on the SWIM connector.
+
+If the application code uses Swim Disable and Reset pin as Output or has disabled SWIM Clock Divider:
+Try Now to SWITCH OFF and ON the application Power Supply while NRST Reset pin is forced low.
+
+<<< Programming PROGRAM MEMORY fails
+
+❌ Errore di programmazione (codice 1).
+
+
+--- Avvio Sessione STM8 ---
+Eseguo: C:/Program Files (x86)/STMicroelectronics/st_toolset/stvp/STVP_CmdLine.exe -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S003K3 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Filling DATA MEMORY image in computer with Blank Value
+<<< Filling DATA MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex in DATA MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex in OPTION BYTE image in computer
+<<< Loading file succeeds
+
+Hit 'Esc' key to abort during communication.
+
+>>> Programming PROGRAM MEMORY
+(API) ERROR : Cannot communicate with the device !
+Check the SWIM cable connection and check all the needed pin connections on the SWIM connector.
+
+If the application code uses Swim Disable and Reset pin as Output or has disabled SWIM Clock Divider:
+Try Now to SWITCH OFF and ON the application Power Supply while NRST Reset pin is forced low.
+
+<<< Programming PROGRAM MEMORY fails
+
+❌ Errore di programmazione (codice 1).
+
+
+--- Avvio Sessione STM8 ---
+Eseguo: C:/Program Files (x86)/STMicroelectronics/st_toolset/stvp/STVP_CmdLine.exe -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S003K3 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Filling DATA MEMORY image in computer with Blank Value
+<<< Filling DATA MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex in DATA MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex in OPTION BYTE image in computer
+<<< Loading file succeeds
+
+Hit 'Esc' key to abort during communication.
+
+>>> Programming PROGRAM MEMORY
+(API) ERROR : Cannot communicate with the device !
+Check the SWIM cable connection and check all the needed pin connections on the SWIM connector.
+
+If the application code uses Swim Disable and Reset pin as Output or has disabled SWIM Clock Divider:
+Try Now to SWITCH OFF and ON the application Power Supply while NRST Reset pin is forced low.
+
+<<< Programming PROGRAM MEMORY fails
+
+❌ Errore di programmazione (codice 1).
+
+Eseguo: C:/Program Files (x86)/STMicroelectronics/st_toolset/stvp/STVP_CmdLine.exe -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S003K3 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Filling DATA MEMORY image in computer with Blank Value
+<<< Filling DATA MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex in DATA MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex in OPTION BYTE image in computer
+<<< Loading file succeeds
+
+Hit 'Esc' key to abort during communication.
+
+>>> Programming PROGRAM MEMORY
+(API) ERROR : Cannot communicate with the device !
+Check the SWIM cable connection and check all the needed pin connections on the SWIM connector.
+
+If the application code uses Swim Disable and Reset pin as Output or has disabled SWIM Clock Divider:
+Try Now to SWITCH OFF and ON the application Power Supply while NRST Reset pin is forced low.
+
+<<< Programming PROGRAM MEMORY fails
+
+❌ Errore di programmazione (codice 1).
+
+Eseguo: C:/Program Files (x86)/STMicroelectronics/st_toolset/stvp/STVP_CmdLine.exe -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S003K3 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Filling DATA MEMORY image in computer with Blank Value
+<<< Filling DATA MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex in DATA MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex in OPTION BYTE image in computer
+<<< Loading file succeeds
+
+Hit 'Esc' key to abort during communication.
+
+>>> Programming PROGRAM MEMORY
+(API) ERROR : Cannot communicate with the device !
+Check the SWIM cable connection and check all the needed pin connections on the SWIM connector.
+
+If the application code uses Swim Disable and Reset pin as Output or has disabled SWIM Clock Divider:
+Try Now to SWITCH OFF and ON the application Power Supply while NRST Reset pin is forced low.
+
+<<< Programming PROGRAM MEMORY fails
+
+❌ Errore di programmazione (codice 1).
+
+Eseguo: C:/Program Files (x86)/STMicroelectronics/st_toolset/stvp/STVP_CmdLine.exe -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S003K3 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Filling DATA MEMORY image in computer with Blank Value
+<<< Filling DATA MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex in DATA MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex in OPTION BYTE image in computer
+<<< Loading file succeeds
+
+Hit 'Esc' key to abort during communication.
+
+>>> Programming PROGRAM MEMORY
+Cut Version and Revision of device: 1.2
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+Cut Version and Revision of device: 1.2
+<<< Verifying PROGRAM MEMORY succeeds
+
+>>> Programming DATA MEMORY
+Cut Version and Revision of device: 1.2
+<<< Programming DATA MEMORY succeeds
+
+>>> Verifying DATA MEMORY
+Cut Version and Revision of device: 1.2
+<<< Verifying DATA MEMORY succeeds
+
+>>> Verifying OPTION BYTE
+Cut Version and Revision of device: 1.2
+<<< Verify OPTION BYTE succeeds
+
+✅ Programmazione completata con successo.
+
+
+--- Avvio Sessione STM8 ---
+Eseguo: C:/Program Files (x86)/STMicroelectronics/st_toolset/stvp/STVP_CmdLine.exe -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S003K3 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Filling DATA MEMORY image in computer with Blank Value
+<<< Filling DATA MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex in DATA MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex in OPTION BYTE image in computer
+<<< Loading file succeeds
+
+Hit 'Esc' key to abort during communication.
+
+>>> Programming PROGRAM MEMORY
+(API) ERROR : Cannot communicate with the device !
+Check the SWIM cable connection and check all the needed pin connections on the SWIM connector.
+
+If the application code uses Swim Disable and Reset pin as Output or has disabled SWIM Clock Divider:
+Try Now to SWITCH OFF and ON the application Power Supply while NRST Reset pin is forced low.
+
+<<< Programming PROGRAM MEMORY fails
+
+❌ Errore di programmazione (codice 1).
+
+Eseguo: C:/Program Files (x86)/STMicroelectronics/st_toolset/stvp/STVP_CmdLine.exe -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S003K3 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Filling DATA MEMORY image in computer with Blank Value
+<<< Filling DATA MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex in DATA MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex in OPTION BYTE image in computer
+<<< Loading file succeeds
+
+Hit 'Esc' key to abort during communication.
+
+>>> Programming PROGRAM MEMORY
+(API) ERROR : Cannot communicate with the device !
+Check the SWIM cable connection and check all the needed pin connections on the SWIM connector.
+
+If the application code uses Swim Disable and Reset pin as Output or has disabled SWIM Clock Divider:
+Try Now to SWITCH OFF and ON the application Power Supply while NRST Reset pin is forced low.
+
+<<< Programming PROGRAM MEMORY fails
+
+❌ Errore di programmazione (codice 1).
+
+Eseguo: C:/Program Files (x86)/STMicroelectronics/st_toolset/stvp/STVP_CmdLine.exe -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S003K3 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Filling DATA MEMORY image in computer with Blank Value
+<<< Filling DATA MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex in DATA MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex in OPTION BYTE image in computer
+<<< Loading file succeeds
+
+Hit 'Esc' key to abort during communication.
+
+>>> Programming PROGRAM MEMORY
+Cut Version and Revision of device: 1.2
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+Cut Version and Revision of device: 1.2
+<<< Verifying PROGRAM MEMORY succeeds
+
+>>> Programming DATA MEMORY
+Cut Version and Revision of device: 1.2
+<<< Programming DATA MEMORY succeeds
+
+>>> Verifying DATA MEMORY
+Cut Version and Revision of device: 1.2
+<<< Verifying DATA MEMORY succeeds
+
+>>> Verifying OPTION BYTE
+Cut Version and Revision of device: 1.2
+<<< Verify OPTION BYTE succeeds
+
+✅ Programmazione completata con successo.
+
+Eseguo: C:/Program Files (x86)/STMicroelectronics/st_toolset/stvp/STVP_CmdLine.exe -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S003K3 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Filling DATA MEMORY image in computer with Blank Value
+<<< Filling DATA MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex in DATA MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex in OPTION BYTE image in computer
+<<< Loading file succeeds
+
+Hit 'Esc' key to abort during communication.
+
+>>> Programming PROGRAM MEMORY
+(API) ERROR : Cannot communicate with the device !
+Check the SWIM cable connection and check all the needed pin connections on the SWIM connector.
+
+If the application code uses Swim Disable and Reset pin as Output or has disabled SWIM Clock Divider:
+Try Now to SWITCH OFF and ON the application Power Supply while NRST Reset pin is forced low.
+
+<<< Programming PROGRAM MEMORY fails
+
+❌ Errore di programmazione (codice 1).
+
+Eseguo: C:/Program Files (x86)/STMicroelectronics/st_toolset/stvp/STVP_CmdLine.exe -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S003K3 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Filling DATA MEMORY image in computer with Blank Value
+<<< Filling DATA MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex in DATA MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex in OPTION BYTE image in computer
+<<< Loading file succeeds
+
+Hit 'Esc' key to abort during communication.
+
+>>> Programming PROGRAM MEMORY
+(API) ERROR : Cannot communicate with the device !
+Check the SWIM cable connection and check all the needed pin connections on the SWIM connector.
+
+If the application code uses Swim Disable and Reset pin as Output or has disabled SWIM Clock Divider:
+Try Now to SWITCH OFF and ON the application Power Supply while NRST Reset pin is forced low.
+
+<<< Programming PROGRAM MEMORY fails
+
+❌ Errore di programmazione (codice 1).
+
+Eseguo: C:/Program Files (x86)/STMicroelectronics/st_toolset/stvp/STVP_CmdLine.exe -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S003K3 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Filling DATA MEMORY image in computer with Blank Value
+<<< Filling DATA MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex in DATA MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex in OPTION BYTE image in computer
+<<< Loading file succeeds
+
+Hit 'Esc' key to abort during communication.
+
+>>> Programming PROGRAM MEMORY
+Cut Version and Revision of device: 1.2
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+Cut Version and Revision of device: 1.2
+<<< Verifying PROGRAM MEMORY succeeds
+
+>>> Programming DATA MEMORY
+Cut Version and Revision of device: 1.2
+<<< Programming DATA MEMORY succeeds
+
+>>> Verifying DATA MEMORY
+Cut Version and Revision of device: 1.2
+<<< Verifying DATA MEMORY succeeds
+
+>>> Verifying OPTION BYTE
+Cut Version and Revision of device: 1.2
+<<< Verify OPTION BYTE succeeds
+
+✅ Programmazione completata con successo.
+
+Eseguo: C:/Program Files (x86)/STMicroelectronics/st_toolset/stvp/STVP_CmdLine.exe -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S003K3 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Filling DATA MEMORY image in computer with Blank Value
+<<< Filling DATA MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex in DATA MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex in OPTION BYTE image in computer
+<<< Loading file succeeds
+
+Hit 'Esc' key to abort during communication.
+
+>>> Programming PROGRAM MEMORY
+(API) ERROR : Cannot communicate with the device !
+Check the SWIM cable connection and check all the needed pin connections on the SWIM connector.
+
+If the application code uses Swim Disable and Reset pin as Output or has disabled SWIM Clock Divider:
+Try Now to SWITCH OFF and ON the application Power Supply while NRST Reset pin is forced low.
+
+<<< Programming PROGRAM MEMORY fails
+
+❌ Errore di programmazione (codice 1).
+
+Eseguo: C:/Program Files (x86)/STMicroelectronics/st_toolset/stvp/STVP_CmdLine.exe -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S003K3 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Filling DATA MEMORY image in computer with Blank Value
+<<< Filling DATA MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex in DATA MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex in OPTION BYTE image in computer
+<<< Loading file succeeds
+
+Hit 'Esc' key to abort during communication.
+
+>>> Programming PROGRAM MEMORY
+(API) ERROR : Cannot communicate with the device !
+Check the SWIM cable connection and check all the needed pin connections on the SWIM connector.
+
+If the application code uses Swim Disable and Reset pin as Output or has disabled SWIM Clock Divider:
+Try Now to SWITCH OFF and ON the application Power Supply while NRST Reset pin is forced low.
+
+<<< Programming PROGRAM MEMORY fails
+
+❌ Errore di programmazione (codice 1).
+
+Eseguo: C:/Program Files (x86)/STMicroelectronics/st_toolset/stvp/STVP_CmdLine.exe -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S003K3 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Filling DATA MEMORY image in computer with Blank Value
+<<< Filling DATA MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex in DATA MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex in OPTION BYTE image in computer
+<<< Loading file succeeds
+
+Hit 'Esc' key to abort during communication.
+
+>>> Programming PROGRAM MEMORY
+Cut Version and Revision of device: 1.2
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+Cut Version and Revision of device: 1.2
+<<< Verifying PROGRAM MEMORY succeeds
+
+>>> Programming DATA MEMORY
+Cut Version and Revision of device: 1.2
+<<< Programming DATA MEMORY succeeds
+
+>>> Verifying DATA MEMORY
+Cut Version and Revision of device: 1.2
+<<< Verifying DATA MEMORY succeeds
+
+>>> Verifying OPTION BYTE
+Cut Version and Revision of device: 1.2
+<<< Verify OPTION BYTE succeeds
+
+✅ Programmazione completata con successo.
+
+Eseguo: C:/Program Files (x86)/STMicroelectronics/st_toolset/stvp/STVP_CmdLine.exe -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S003K3 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Filling DATA MEMORY image in computer with Blank Value
+<<< Filling DATA MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex in DATA MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex in OPTION BYTE image in computer
+<<< Loading file succeeds
+
+Hit 'Esc' key to abort during communication.
+
+>>> Programming PROGRAM MEMORY
+Cut Version and Revision of device: 1.2
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+Cut Version and Revision of device: 1.2
+<<< Verifying PROGRAM MEMORY succeeds
+
+>>> Programming DATA MEMORY
+Cut Version and Revision of device: 1.2
+<<< Programming DATA MEMORY succeeds
+
+>>> Verifying DATA MEMORY
+Cut Version and Revision of device: 1.2
+<<< Verifying DATA MEMORY succeeds
+
+>>> Verifying OPTION BYTE
+Cut Version and Revision of device: 1.2
+<<< Verify OPTION BYTE succeeds
+
+✅ Programmazione completata con successo.
+
+Eseguo: C:/Program Files (x86)/STMicroelectronics/st_toolset/stvp/STVP_CmdLine.exe -BoardName=ST-LINK -Port=USB -ProgMode=SWIM -Device=STM8S003K3 -verbose -no_progOption -no_loop -verif -FileProg=C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 -FileData=C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex -FileOption=C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex
+
+STVP_CmdLine version 1.6
+
+Verbose ON
+Log activity ON
+Display Progress OFF
+Message box warning if protect option byte ON
+Loop mode OFF
+Erase device OFF
+Blank check device OFF
+Verify device ON
+
+Configuration:
+BoardName=ST-LINK ST-LINK_ID=0 Device=STM8S003K3 Port=USB ProgMode=SWIM
+
+>>> Filling PROGRAM MEMORY image in computer with Blank Value
+<<< Filling PROGRAM MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19 in PROGRAM MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Filling DATA MEMORY image in computer with Blank Value
+<<< Filling DATA MEMORY image in computer succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex in DATA MEMORY image in computer
+<<< Loading file succeeds
+
+>>> Loading file C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex in OPTION BYTE image in computer
+<<< Loading file succeeds
+
+Hit 'Esc' key to abort during communication.
+
+>>> Programming PROGRAM MEMORY
+Cut Version and Revision of device: 1.2
+<<< Programming PROGRAM MEMORY succeeds
+
+>>> Verifying PROGRAM MEMORY
+Cut Version and Revision of device: 1.2
+<<< Verifying PROGRAM MEMORY succeeds
+
+>>> Programming DATA MEMORY
+Cut Version and Revision of device: 1.2
+<<< Programming DATA MEMORY succeeds
+
+>>> Verifying DATA MEMORY
+Cut Version and Revision of device: 1.2
+<<< Verifying DATA MEMORY succeeds
+
+>>> Verifying OPTION BYTE
+Cut Version and Revision of device: 1.2
+<<< Verify OPTION BYTE succeeds
+
+✅ Programmazione completata con successo.
+
+
+--- Avvio Sessione STM8 ---
+
+--- Avvio Sessione STM8 ---

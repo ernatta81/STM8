@@ -1,0 +1,10 @@
+{
+  "cli_path": "C:/Program Files (x86)/STMicroelectronics/st_toolset/stvp/STVP_CmdLine.exe",
+  "model": "STM8S003K3",
+  "files": {
+    "prog": "C:/Users/ernesto/Desktop/FW_prog_1439/l6474.s19",
+    "data": "C:/Users/ernesto/Desktop/FW_prog_1439/Data_mem.hex",
+    "opt": "C:/Users/ernesto/Desktop/FW_prog_1439/Option_default.hex"
+  },
+  "logo_path": "e:\\Ernesto\\Projects\\STM8\\logo.png"
+}
